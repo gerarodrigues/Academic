@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Geraldo Rodrigues
+title: Geraldo Rodrigues | Social Psychology Researcher
+description: Performing Arts Background, host of The Creative Ticket, Author: The Book of Gold (children's book currently available in Portuguese).
 tags:
   - blog
   - template
@@ -19,7 +18,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: gerarodrigues@alumni.usp.br
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -29,10 +28,10 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+github_username: gerarodrigues
 facebook_username: facebook_username
 twitter_username: twitter_username
-instagram_username: instagram_username
+instagram_username: @gerarodrigues
 linkedin_username: linkedin_username
 medium_username: medium_username
 
